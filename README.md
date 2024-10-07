@@ -15,23 +15,13 @@
 
 - **Machine Learning**
 - **Data Engineering & Data Science**
-- **Complex Systems**
 
 <h3 align="center">
   I enjoy applying theoretical knowledge to exciting projects that explore the real-world applications of AI and complex data-driven solutions.
 </h3>
 
 ---
----
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/juan-manuel-alvarado-458453301" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="mailto:juanalvarado15104@gmail.com" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="25" width="40" />
-  </a>  
-</p>
+
 
 
 
@@ -101,7 +91,27 @@
 </p>
 
 
-<p align="left"> <img src="https://opengameart.org/sites/default/files/robot-idle.gif" alt="Robot GIF" width="20%" /> </p>
+<p align="left"> <img src="https://opengameart.org/sites/default/files/robot-idle.gif" alt="Robot GIF" width="15%" /> </p>
+---
+
+---
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/juan-manuel-alvarado-458453301" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:juanalvarado15104@gmail.com" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="25" width="40" />
+  </a>  
+</p>
+---
+
+
+
+
+
+
+
 
 
 
