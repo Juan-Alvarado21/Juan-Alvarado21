@@ -20,12 +20,6 @@
 </h3>
 
 ---
-
-### 🚀 About Me:
-- 🎓 **Studying Artificial Intelligence Engineering**
-- ⚙️ **Areas of Expertise:** Machine Learning, Data Engineering, Data Science, Complex Systems
-- 💡 **Passionate About:** Understanding the mathematical foundations behind AI and applying intelligent algorithms in innovative projects
-
 ---
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
