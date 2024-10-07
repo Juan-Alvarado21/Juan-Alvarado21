@@ -6,24 +6,20 @@
 <h1 align="center">Hi 👋, I'm Juan</h1>
 
 <h3 align="center">
-  I’m currently studying Artificial Intelligence Engineering, with a passion for understanding the fundamentals and mathematics behind AI, intelligent algorithms, and complex systems.
+  I’m currently studying Artificial Intelligence Engineering and have a strong passion for the fundamentals and mathematics that form the basis of AI. I find great excitement in exploring algorithms and complex systems.
 </h3>
+
+
+<h3 align="center">Interests:</h3>
+<ul style="list-style-type: none; padding: 0; text-align: center;">
+  <li>🤖 Machine Learning</li>
+  <li>📊 Data Science</li>
+</ul>
+
 
 <h3 align="center">
-  My main areas of interest are:
+  I love applying my theoretical knowledge to engaging projects that delve into the real-world applications of AI and ingenious data-driven solutions.
 </h3>
-
-- **Machine Learning**
-- **Data Engineering & Data Science**
-
-<h3 align="center">
-  I enjoy applying theoretical knowledge to exciting projects that explore the real-world applications of AI and complex data-driven solutions.
-</h3>
-
----
-
-
-
 
 ---
 <h3 align="left">Languages and Tools:</h3>
@@ -91,20 +87,25 @@
 </p>
 
 
-<p align="left"> <img src="https://opengameart.org/sites/default/files/robot-idle.gif" alt="Robot GIF" width="15%" /> </p>
----
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; text-align: left;">
+    <h3>🌐 Connect with me:</h3>
+    <p style="margin: 0;">
+      <a href="https://linkedin.com/in/www.linkedin.com/in/juan-manuel-alvarado-458453301" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+      </a>
+      <a href="mailto:juanalvarado15104@gmail.com" target="blank">
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="25" width="40" />
+      </a>
+    </p>
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img src="https://opengameart.org/sites/default/files/robot-idle.gif" alt="Robot GIF" width="15%" />
+  </div>
+</div>
 
----
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/juan-manuel-alvarado-458453301" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="mailto:juanalvarado15104@gmail.com" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="25" width="40" />
-  </a>  
-</p>
----
+
+
 
 
 
