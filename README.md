@@ -66,9 +66,6 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" alt="raspberry_pi" width="40" height="40"/>
   </a>
@@ -100,7 +97,7 @@
     </p>
   </div>
   <div style="flex: 1; text-align: right;">
-    <img src="https://opengameart.org/sites/default/files/robot-idle.gif" alt="Robot GIF" width="15%" />
+    <img src="https://opengameart.org/sites/default/files/robot-idle.gif" alt="Robot GIF" width="20%" />
   </div>
 </div>
 
