@@ -18,7 +18,7 @@
 
 
 <h3 align="center">
-  I love applying my theoretical knowledge to engaging projects that delve into the real-world applications of AI and ingenious data-driven solutions.
+  I love applying theoretical knowledge to engaging projects that delve into the real-world applications of AI and ingenious data-driven solutions.
 </h3>
 
 ---
